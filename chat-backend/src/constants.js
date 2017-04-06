@@ -1,0 +1,9 @@
+const constants = {
+    USER_CONNECT: "USER_CONNECT",
+    USER_DISCONNECT: "USER_DISCONNECT",
+    CREATE_ROOM: "CREATE_ROOM",
+    ADD_USER_TO_ROOM: "ADD_USER_TO_ROOM",
+    REMOVE_USER_FROM_ROOM: "REMOVE_USER_FROM_ROOM"
+}
+
+export default constants;
